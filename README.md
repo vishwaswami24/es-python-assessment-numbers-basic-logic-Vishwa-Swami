@@ -5,7 +5,7 @@ My Approach
 
 Task-1 : **even_or_odd()** function tests conditional statements (if-else) & modulo operator (%).  
 &emsp;&emsp;&emsp;So it returns "even" if number n is divisible by 2 and remainder is zero, unless returns "Odd".  
-&emsp;&emsp;&emsp;Edge Case Handling:  
+&emsp;&emsp;&emsp;**Edge Case Handling:** 
 &emsp;&emsp;&emsp;**Negative numbers:** -4 % 2 produces 0 and -5 % 2 produces 1, so modulo arithmetic works for both positive and negative values.  
 &emsp;&emsp;&emsp;**Zero:** 0 % 2 = 0, correctly categorizing 0 as "Even".  
 &emsp;&emsp;&emsp;**Input validation:** Because Python treats booleans as integers (True == 1, False == 0), because boolean is subclass of integer in python.  
