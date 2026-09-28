@@ -3,7 +3,7 @@ Date of Submission : 28/09/2026
 
 My Approach
 
-Task-1 : **even_or_odd()** function tests conditional statements (if-else) & modulo operator (%).
+Task-1 : **even_or_odd()** function tests conditional statements (if-else) & modulo operator (%).  
          So it returns "even" if number n is divisible by 2 and remainder is zero, unless returns "Odd".
          Edge Case Handling:
            **Negative numbers:** In Python, -4 % 2 produces 0 and -5 % 2 produces 1, so modulo arithmetic works seamlessly across both positive and negative values.
