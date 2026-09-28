@@ -18,5 +18,5 @@ if type(n) is not int:
 **add_all()** function tests for loop and accumulator variable.  
 So, it returns sum of all numbers in a list.  
 If the collection is needed to be a list, then we can add in function -  
-if not isinstance(numbers, list): #checks whether an object is an instance of any particular class or not
-    raise TypeError(f"Expected a list, got {type(numbers).__name__}")
+if not isinstance(numbers, list): #checks whether an object is an instance of any particular class or not  
+&emsp;raise TypeError(f"Expected a list, got {type(numbers).__name__}")
