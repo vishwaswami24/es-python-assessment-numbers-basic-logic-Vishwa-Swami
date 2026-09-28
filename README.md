@@ -1,7 +1,7 @@
-Name               : Vishwa Swami
+Name               : Vishwa Swami  
 Date of Submission : 29/09/2026
 
-My Approach
+**My Approach**
 
 **Task-1 :**  
 **even_or_odd()** function tests conditional statements (if-else) & modulo operator (%).  
