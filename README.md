@@ -8,7 +8,7 @@ Task-1 : **even_or_odd()** function tests conditional statements (if-else) & mod
 &emsp;&emsp;&emsp;Edge Case Handling:  
 &emsp;&emsp;&emsp;**Negative numbers:** -4 % 2 produces 0 and -5 % 2 produces 1, so modulo arithmetic works for both positive and negative values.  
 &emsp;&emsp;&emsp;**Zero:** 0 % 2 = 0, correctly categorizing 0 as "Even".  
-&emsp;&emsp;&emsp;**Input validation:** Because Python permits duck typing and treats booleans as integers (True == 1, False == 0), because boolean is subclass of integer in python.  
+&emsp;&emsp;&emsp;**Input validation:** Because Python permits duck typing and treats booleans as integers (True == 1, False == 0), because boolean is &emsp;&emsp;&emsp;subclass of integer in python.  
 &emsp;&emsp;&emsp;For that we can add -  
 &emsp;&emsp;&emsp;if type(n) is not int:  
 &emsp;&emsp;&emsp;&emsp;raise TypeError("Input must be a valid integer, not bool or other types."  
