@@ -30,6 +30,6 @@ So, it returns sum of all numbers in a list.
 **Other elements:** If an item inside the list is a string or dictionary, attempting addition would cause an unintended failure,  
 making pre-check type validation useful for clean error reporting.  
 
-If the collection is needed to be a list, then we can add in code function -  
+If the collection is needed to be a list, then we can add in code -  
 if not isinstance(numbers, list): #checks whether an object is an instance of any particular class or not  
 &emsp;raise TypeError(f"Expected a list, got {type(numbers).__name__}")
